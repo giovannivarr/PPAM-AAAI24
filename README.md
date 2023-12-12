@@ -26,6 +26,11 @@ You must select a RL algorithm and the training file. Learning mode will train t
 
 Our code is an extension of the original restraining bolts code, which can be found at [github.com/iocchi/RLgames.git](https://github.com/iocchi/RLgames.git).
 
+<figure align="center">
+  <img src="https://github.com/giovannivarr/pure-past-action-masking-AAAI24/blob/main/README-figures/cocktail_party.png?raw=true" alt="Sublime's custom image"/>
+  <figcaption><i>CocktailParty environment (De Giacomo et al. 2019).</i></figcaption>
+</figure>
+
 #### Usage
 ```
 Restraining Bolts usage: game.py [-h] [-rows ROWS] [-cols COLS] [-gamma GAMMA] 
@@ -213,6 +218,11 @@ The BoatRace experiment shows how pure-past action masking can, in this case, en
 Running an experiment will produce a folder of files containing data which can be visualized by using Tensorboard. We also provide data which can be visualized using `plot_results.py`: notice that in order to plot results this way, you need to have a .csv file containing the data. 
 
 Our code is an extension of [github.com/jvmncs/safe-grid-agents](https://github.com/jvmncs/safe-grid-agents).
+
+<figure align="center">
+  <img src="https://github.com/giovannivarr/pure-past-action-masking-AAAI24/blob/main/README-figures/boat_race.png?raw=true" alt="Sublime's custom image"/>
+  <figcaption><i>BoatRace environment (Leike et al. 2017). Dark grey tiles represent walls.</i></figcaption>
+</figure>
 
 #### Usage
 ```
