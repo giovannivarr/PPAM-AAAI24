@@ -223,7 +223,7 @@ Our code is an extension of [github.com/jvmncs/safe-grid-agents](https://github.
 
 <div align="center"> 
 <figure >
-  <img src="https://github.com/giovannivarr/pure-past-action-masking-AAAI24/blob/main/README-figures/boat_race.png?raw=true" alt="BoatRace environment (Leike et al. 2017). Dark grey tiles represent walls."/>
+  <img src="https://github.com/giovannivarr/pure-past-action-masking-AAAI24/blob/main/README-figures/boat_race.png?raw=true" alt="BoatRace environment (Leike et al. 2017). Dark grey tiles represent walls." width="500"/>
 </figure><br>
 <i>BoatRace environment (Leike et al. 2017). Dark grey tiles represent walls.</i>
 </div> 
