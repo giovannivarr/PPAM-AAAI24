@@ -28,7 +28,7 @@ Our code is an extension of the original restraining bolts code, which can be fo
 
 <div align="center">
 <figure>
-  <img src="https://github.com/giovannivarr/pure-past-action-masking-AAAI24/blob/main/README-figures/cocktail_party.png?raw=true" alt="CocktailParty environment (De Giacomo et al. 2019)." width="200"/>
+  <img src="https://github.com/giovannivarr/pure-past-action-masking-AAAI24/blob/main/README-figures/cocktail_party.png?raw=true" alt="CocktailParty environment (De Giacomo et al. 2019)." width="350"/>
 </figure><br>
 <i>CocktailParty environment (De Giacomo et al. 2019).</i>
 </div>
