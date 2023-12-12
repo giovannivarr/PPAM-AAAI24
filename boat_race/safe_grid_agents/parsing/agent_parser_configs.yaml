@@ -1,0 +1,29 @@
+# dummy testing agents
+random:
+single:
+  action:
+    alias: a
+    type: int
+    default: 0
+    help: "Which action the agent will choose (default: 0)"
+# standard RL agents
+tabular-q:
+  lr:
+    alias: l
+    type: float
+    required: true
+    help: "Learning rate (required)"
+  epsilon:
+    alias: e
+    type: float
+    default: 0.01
+    help: "Exploration constant for epsilon greedy policy (default: .01)"
+  epsilon-anneal:
+    alias: dl
+    type: int
+    default: 100000
+    help: "Number of timesteps to linearly anneal epsilon exploration (default: 100,000)"
+  mask:
+    alias: m
+    action: store_true
+    help: "Enable (past) action masking (default: False)"

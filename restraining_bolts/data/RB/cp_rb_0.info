@@ -1,0 +1,23 @@
+Date:    2023-08-16 06:46:26
+Train:   cp_rb_prova_0
+Game:    CP
+Size:    5 x 5
+Agent:   Sarsa
+gamma:   0.999000
+epsilon: 0.200000
+alpha:   -1.000000
+n-step:  100
+lambda:  -1.000000
+
+
+2023-08-16 06:46:26,cp_rb_prova_0,CP,5,5,Sarsa,0.999,0.200,-1.000,100,-1.000
+iteration:        4001
+goal score:       4
+goal reward:      5277.44
+goal n. actions:  122
+highest reward:   5645.56
+highest score:    4
+elapsed time:     286
+
+2023-08-16 06:51:13,cp_rb_prova_0,CP,5,5,Sarsa,0.999,0.200,-1.000,100,-1.000,4001,4,5277.44,122,5645.56,4,286
+

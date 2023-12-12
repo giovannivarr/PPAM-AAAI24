@@ -1,0 +1,23 @@
+Date:    2023-08-04 16:15:20
+Train:   RB/cp_rb_486
+Game:    CP
+Size:    5 x 5
+Agent:   Sarsa
+gamma:   0.999000
+epsilon: 0.200000
+alpha:   -1.000000
+n-step:  100
+lambda:  -1.000000
+
+
+2023-08-04 16:15:20,RB/cp_rb_486,CP,5,5,Sarsa,0.999,0.200,-1.000,100,-1.000
+iteration:        4001
+goal score:       3
+goal reward:      3248.38
+goal n. actions:  233
+highest reward:   5754.14
+highest score:    4
+elapsed time:     244
+
+2023-08-04 16:19:25,RB/cp_rb_486,CP,5,5,Sarsa,0.999,0.200,-1.000,100,-1.000,4001,3,3248.38,233,5754.14,4,244
+

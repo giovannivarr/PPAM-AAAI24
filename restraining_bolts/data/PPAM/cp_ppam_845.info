@@ -1,0 +1,24 @@
+Date:    2023-08-04 16:05:45
+Train:   cp_ppam_845
+Game:    CPRestrain
+Size:    5 x 5
+Agent:   Sarsa
+gamma:   0.999000
+epsilon: 0.200000
+alpha:   -1.000000
+n-step:  100
+lambda:  -1.000000
+
+
+2023-08-04 16:05:45,cp_ppam_845,CPRestrain,5,5,Sarsa,0.999,0.200,-1.000,100,-1.000
+iteration:        4001
+goal score:       1
+goal reward:      1187.46
+goal n. actions:  1001
+highest reward:   5657.79
+highest score:    4
+elapsed time:     251
+Optimal policy found.
+
+2023-08-04 16:09:56,cp_ppam_845,CPRestrain,5,5,Sarsa,0.999,0.200,-1.000,100,-1.000,4001,1,1187.46,1001,5657.79,4,251
+
