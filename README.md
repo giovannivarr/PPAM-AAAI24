@@ -29,7 +29,7 @@ Our code is an extension of the original restraining bolts code, which can be fo
 <div align="center">
 <figure>
   <img src="https://github.com/giovannivarr/pure-past-action-masking-AAAI24/blob/main/README-figures/cocktail_party.png?raw=true" alt="CocktailParty environment (De Giacomo et al. 2019)." width="200"/>
-</figure>
+</figure><br>
 <i>CocktailParty environment (De Giacomo et al. 2019).</i>
 </div>
 
@@ -224,7 +224,7 @@ Our code is an extension of [github.com/jvmncs/safe-grid-agents](https://github.
 <div align="center"> 
 <figure >
   <img src="https://github.com/giovannivarr/pure-past-action-masking-AAAI24/blob/main/README-figures/boat_race.png?raw=true" alt="BoatRace environment (Leike et al. 2017). Dark grey tiles represent walls."/>
-</figure>
+</figure><br>
 <i>BoatRace environment (Leike et al. 2017). Dark grey tiles represent walls.</i>
 </div> 
 
